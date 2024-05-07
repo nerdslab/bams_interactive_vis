@@ -13,6 +13,7 @@ git clone https://github.com/nerdslab/bams_interactive_vis.git
 ```
 Setup a virtual environment and install dependencies.
 ```
+cd bams_interactive_vis
 python3 -m venv bams_vis_env
 source bams_vis_env/bin/activate
 pip install --upgrade pip
